@@ -24,9 +24,14 @@
 - **Storage:** `path_provider` و `shared_preferences`.
 
 ## 📸 لقطات من التطبيق
-*(هنا يمكنك إضافة صور لشاشات التطبيق لاحقاً)*
-
+![photo_1_2026-01-31_17-57-33](https://github.com/user-attachments/assets/b3115f03-d390-4cd6-bc61-fa54667bbd53)
+![photo_2_2026-01-31_17-57-33](https://github.com/user-attachments/assets/02587d22-9362-4cbb-bc9f-bc9f97f889ef)
+![photo_3_2026-01-31_17-57-33](https://github.com/user-attachments/assets/93d93e39-b879-4ab7-b7b5-da3e51e1e9a9)
+![photo_4_2026-01-31_17-57-33](https://github.com/user-attachments/assets/5bc252f5-ef7e-45d3-9328-ca2fd27a3425)
+![photo_5_2026-01-31_17-57-33](https://github.com/user-attachments/assets/b97c7756-15a3-4b67-ae7c-4bf44cf8b1e6)
+![photo_6_2026-01-31_17-57-33](https://github.com/user-attachments/assets/32be44c7-bee2-4821-9f0a-521a8f41c55d)
+![photo_7_2026-01-31_17-57-33](https://github.com/user-attachments/assets/bc6dfc09-7573-42ea-92f2-a09d0bc29bd1)
+![photo_8_2026-01-31_17-57-33](https://github.com/user-attachments/assets/7226a289-3a7f-4fc4-b5e8-588a0e6d15dc)
 ## 🛠 كيفية التشغيل (Setup)
 1. قم بتحميل المستودع:
-   ```bash
-   git clone [https://github.com/your-username/shaykhi-app.git](https://github.com/your-username/shaykhi-app.git)
+  قم بتحميل ملف app-release.apk الموجود في الأسفل. أو من هذا الرايط: https://github.com/ecfc2015/shaykhi-spiritual-companion/releases/download/v1.0.0/shaykhi_app.apk 
